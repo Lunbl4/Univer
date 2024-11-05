@@ -1,5 +1,3 @@
-# /student/lesson/220
-
 name = "Evgeniy"
 print("Name:", name)
 age = 40
