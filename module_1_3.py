@@ -1,4 +1,4 @@
-# https://urban-university.pro/student/lesson/220
+# /student/lesson/220
 
 name = "Evgeniy"
 print("Name:", name)
